@@ -45,13 +45,14 @@ Open the project in Visual Studio 2013
 
 ### **Controls**
 
-| Player       | Move Left | Move Right | Jump       | Punch | Kick | Block |
-
-|-------------|----------|-----------|-----------|-------|------|-------|
-
-| **Player 1** | `A`      | `D`       | `W`       | `F`   | `G`  | `H`   |
-
-| **Player 2** | `←` (Left Arrow) | `→` (Right Arrow) | `↑` (Up Arrow) | `K`   | `L`  | `;`   |
+| Action      | Key           |
+|-------------|---------------|
+| Move Left   | Left Arrow    |
+| Move Right  | Right Arrow   |
+| Jump        | Space         |
+| Attack      | A             |
+| Block       | Space         |
+| Magic Sword | 0, 1, 2, 3    |
 
 
 ### **Game Rules**
