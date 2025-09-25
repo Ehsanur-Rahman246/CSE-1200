@@ -64,15 +64,15 @@ Open the project in Visual Studio 2013
 <img src="https://github.com/user-attachments/assets/8b161566-b6d8-42a1-ae96-a6b5559a8733" width="500" height="200">
 
 ### **Puzzle**
-<img src="Screenshot 2025-09-24 093746" src="https://github.com/user-attachments/assets/33df6bdd-f400-45ee-b020-1fbb538eb233" width="500" height="200">
+<img src="https://github.com/user-attachments/assets/33df6bdd-f400-45ee-b020-1fbb538eb233" width="500" height="200">
 
 ### **Story**
-<img src="Screenshot 2025-09-24 093951" src="https://github.com/user-attachments/assets/71f26f03-de08-45b8-bb94-ee40669ae987" width="500" height="200">
+<img src="https://github.com/user-attachments/assets/71f26f03-de08-45b8-bb94-ee40669ae987" width="500" height="200">
 
 ### **Battle ongoing**
-<img src="747" alt="Screenshot 2025-09-24 094026" src="Screenshot 2025-09-24 093232" src="https://github.com/user-attachments/assets/a1584495-f982-45ed-bd92-8aab1d2d3c1d" width="500" height="200">
+<img src="https://github.com/user-attachments/assets/a1584495-f982-45ed-bd92-8aab1d2d3c1d" width="500" height="200">
 
-<img src="747" alt="Screenshot 2025-09-24 094026" src="https://github.com/user-attachments/assets/05032240-e167-45c1-947b-b9244bf86311" width="500" height="200">
+<img src="https://github.com/user-attachments/assets/05032240-e167-45c1-947b-b9244bf86311" width="500" height="200">
 
 
 
