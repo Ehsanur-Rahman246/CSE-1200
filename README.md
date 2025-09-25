@@ -61,23 +61,22 @@ Open the project in Visual Studio 2013
 ## Screenshots
 
 ### **Obstacle course**
-<img src="https://github.com/user-attachments/assets/8b161566-b6d8-42a1-ae96-a6b5559a8733" width="500" height="200">
+<img width="700" height="280" alt="Screenshot 2025-09-24 092802" src="https://github.com/user-attachments/assets/9536f778-8ad4-4fa6-8011-a0121bf5590e" />
 
 ### **Puzzle**
-<img src="https://github.com/user-attachments/assets/33df6bdd-f400-45ee-b020-1fbb538eb233" width="500" height="200">
+<img width="700" height="280" alt="Screenshot 2025-09-24 093746" src="https://github.com/user-attachments/assets/c43b29aa-144c-43c5-abd6-ab5e2212f911" />
 
 ### **Story**
-<img src="https://github.com/user-attachments/assets/71f26f03-de08-45b8-bb94-ee40669ae987" width="500" height="200">
+<img width="700" height="280" alt="Screenshot 2025-09-24 093951" src="https://github.com/user-attachments/assets/8b132aba-18b4-446b-8e0c-6e887dcccff0" />
 
 ### **Battle ongoing**
-<img src="https://github.com/user-attachments/assets/a1584495-f982-45ed-bd92-8aab1d2d3c1d" width="500" height="200">
+<img width="700" height="280" alt="Screenshot 2025-09-24 093232" src="https://github.com/user-attachments/assets/b6cc4b16-43da-4e25-a5b8-d84338d4824c" />
 
-<img src="https://github.com/user-attachments/assets/05032240-e167-45c1-947b-b9244bf86311" width="500" height="200">
-
+<img width="700" height="280" alt="Screenshot 2025-09-24 094026" src="https://github.com/user-attachments/assets/d2ad51e4-0c1d-45d0-b5ae-043e0f8c04b2" />
 
 
 ## Youtube Link
 [CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
 
 ## Project Report
-[Project Report: VoidSpire]([https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/file/d/16rCnko1F0WOTBsvr8UQYR2X2RWjX2wXn/view?usp=sharing))
+[Project Report: VoidSpire](https://drive.google.com/file/d/16rCnko1F0WOTBsvr8UQYR2X2RWjX2wXn/view?usp=sharing)
