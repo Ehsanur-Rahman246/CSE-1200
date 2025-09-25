@@ -49,9 +49,9 @@ Open the project in Visual Studio 2013
 |-------------|---------------|
 | Move Left   | Left Arrow    |
 | Move Right  | Right Arrow   |
-| Jump        | Space         |
+| Jump        | Spacebar      |
 | Attack      | A             |
-| Block       | Space         |
+| Block       | Spacebar      |
 | Magic Sword | 0, 1, 2, 3    |
 
 
