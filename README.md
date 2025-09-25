@@ -45,14 +45,14 @@ Open the project in Visual Studio 2013
 
 ### **Controls**
 
-| Action      | Key           |
-|-------------|---------------|
-| Move Left   | Left Arrow    |
-| Move Right  | Right Arrow   |
-| Jump        | Spacebar      |
-| Attack      | A             |
-| Block       | Spacebar      |
-| Magic Sword | 0, 1, 2, 3    |
+|      Action     |        Key        |
+|-----------------|-------------------|
+| Move Left       | Left Arrow        |
+| Move Right      | Right Arrow       |
+| Jump            | Spacebar          |
+| Attack          | A                 |
+| Block           | Spacebar          |
+| Change Sword    | 0, 1, 2, 3        |
 
 
 ### **Game Rules**
