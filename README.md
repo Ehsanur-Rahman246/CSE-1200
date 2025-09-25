@@ -58,9 +58,6 @@ Open the project in Visual Studio 2013
 1. Ehsanur
 2. Istiak
 
-<img width="1874" height= />
-<img width="1872" height="744" alt= />
-
 ## Screenshots
 
 ### **Obstacle course**
